@@ -3,7 +3,6 @@
 ###
 
 * I'm studying Computer Programming at FATEC Baixada Santista - Rubens Lara. 
-* I'm from Guarujá - SP. 
 * Documenting my studies and crazy projects here.
 * Currently studying web development and kinda obsessed about it.
 * Contact email: claranevesdev@gmail.com
